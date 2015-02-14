@@ -228,6 +228,8 @@ function initializeMap() {
 
 }
 
+var formattedName = HTMLheaderName.replace(%data%, "Danny");
+var formattedRole = HTMLheaderRole.replace(%data%, "Front-end dev");
 /*
 Uncomment the code below when you're ready to implement a Google Map!
 */
